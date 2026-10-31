@@ -16,8 +16,8 @@ I've also designed and built wedding invitation web apps for real couples, with 
 
 ### Toolkit
 
-**Code:** React · Next.js · TypeScript · Tailwind CSS · Supabase (PostgreSQL) · MySQL · Git · Vercel
-**Design:** Figma · Illustrator · Photoshop · InDesign · UX research · prototyping · usability testing
+- **Code:** React · Next.js · TypeScript · Tailwind CSS · Supabase (PostgreSQL) · MySQL · Git · Vercel
+- **Design:** Figma · Illustrator · Photoshop · InDesign · UX research · prototyping · usability testing
 
 ### Contact
 
