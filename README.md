@@ -21,4 +21,4 @@ I've also designed and built wedding invitation web apps for real couples, with 
 
 ### Contact
 
-[Portfolio](https://consueloherreradesign.vercel.app) · [LinkedIn](https://www.linkedin.com/in/consuelo-herrera-de-la-calle-43452b19b/) · contact.consudesign@gmail.com
+[Portfolio](https://consueloherreradesign.vercel.app) · [LinkedIn](https://www.linkedin.com/in/consueloherreradesign/) · contact.consudesign@gmail.com
