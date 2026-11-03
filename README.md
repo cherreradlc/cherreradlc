@@ -1,8 +1,8 @@
 ## Hi, I'm Consuelo 👋
 
-**UX/UI Designer & Front-end Developer** based in Chile, open to remote roles with European teams.
+**UX/UI Designer who builds with AI**, based in Chile and open to remote roles.
 
-I come from graphic design. Today I research users, design clear and accessible interfaces, and build them as working web apps with React, Next.js and Supabase.
+I come from graphic design. Today I research users and design clear, accessible interfaces, then turn them into working web apps built with AI (Claude Code) on React, Next.js and Supabase. I decide what gets built and how it behaves, and review and test every detail.
 
 ### Featured
 
@@ -12,11 +12,11 @@ I come from graphic design. Today I research users, design clear and accessible 
 
 **[Portfolio](https://github.com/cherreradlc/portfolio-2026)**: my site, with case studies built from typed data, a bilingual UI and real code excerpts. [consueloherreradesign.vercel.app →](https://consueloherreradesign.vercel.app)
 
-I've also designed and built wedding invitation web apps for real couples, with RSVP flows, private guest lists and a dashboard for the couple. The code is private to protect their data, and the case studies are in my portfolio.
+I've also designed wedding invitation web apps, built with AI, for real couples, with RSVP flows, private guest lists and a dashboard for the couple. The code is private to protect their data, and the case studies are in my portfolio.
 
 ### Toolkit
 
-- **Code:** React · Next.js · TypeScript · Tailwind CSS · Supabase (PostgreSQL) · MySQL · Git · Vercel
+- **Build:** Claude Code · React · Next.js · TypeScript · Tailwind CSS · Supabase (PostgreSQL) · MySQL · Git · Vercel
 - **Design:** Figma · Illustrator · Photoshop · InDesign · UX research · prototyping · usability testing
 
 ### Contact
